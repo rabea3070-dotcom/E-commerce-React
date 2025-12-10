@@ -1,4 +1,4 @@
-# Fashion Cube — E‑commerce Demo
+# Fashion Cube — E‑commerce
 
 A lightweight ecommerce demo built with React (frontend) and a small Express server (backend). This repository contains a complete example app you can run locally for development, testing, or to use as a starting point for your own shop UI.
 
